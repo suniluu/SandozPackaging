@@ -1,0 +1,43 @@
+/* myComponent.css */
+.map-container lightning-map {
+    height: 85%;  /* Reduce height by 15% */
+}
+
+.custom{
+    height:100px;
+    width:160px;
+    border: 1px solid black;
+}
+
+h4{
+    width: 30px;
+    margin-top:-12px;
+    margin-left:7px;
+    background-color : white;
+}
+
+.custom1{
+    width: 30px;
+    margin-top:-12px;
+    margin-left:7px;
+    padding-right:44%;
+    background-color : white;
+}
+
+/* myComponent.css */
+.custom-button {
+    background-color: green; 
+    color: white;
+    border: none;
+    float:right;
+    border-radius: 0.25rem;
+    font-size: 0.90rem;
+    cursor: pointer;
+    transition: background-color 0.15s ease-in-out;
+    padding-right:0.15rem;
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+    height: 2rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
